@@ -27,6 +27,3 @@ SerialPort.list(function(err, ports) {
     }
   });
 });
-
-
-
